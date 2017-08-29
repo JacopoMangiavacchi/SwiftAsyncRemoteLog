@@ -1,0 +1,6 @@
+framework module Pods_LogClient {
+  umbrella header "Pods-LogClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

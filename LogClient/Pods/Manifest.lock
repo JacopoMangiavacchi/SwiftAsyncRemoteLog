@@ -1,0 +1,12 @@
+PODS:
+  - Disk (0.2.1)
+
+DEPENDENCIES:
+  - Disk (~> 0.2.1)
+
+SPEC CHECKSUMS:
+  Disk: acd8ab41f768e831988d3eb5423e21037df54e49
+
+PODFILE CHECKSUM: 29f4be995e37efcb36a7ed8cc57cd6a3374dabfc
+
+COCOAPODS: 1.3.1
